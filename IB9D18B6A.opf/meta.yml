@@ -1,0 +1,16 @@
+id: IB9D18B6A
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 15:22:34.583121
+last_modified: 2023-02-08 15:22:34.583274
+source_metadata:
+  title: Saddharmapuṇḍarīka
+  language: zh
+bases:
+  DDF2:
+    base_file: DDF2.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
